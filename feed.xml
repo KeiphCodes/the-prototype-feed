@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/feed.xml" rel="self" type="application/rss+xml" />
+    <title>The Prototype</title>
+    <link>https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/feed.xml</link>
+    <language>en-us</language>
+    <description><![CDATA[Every week, The Prototype takes you inside the tech being built right now — the breakthroughs, the wild experiments, and the quiet revolutions that will shape the next decade. No hype, no jargon walls, just the amazing stuff explained straight. The future is already under construction. Come watch it get built.]]></description>
+    <managingEditor>Ivyindustrieswork@gmail.com (Alden Isaac)</managingEditor>
+    <itunes:author>Alden Isaac</itunes:author>
+    <itunes:summary><![CDATA[Every week, The Prototype takes you inside the tech being built right now — the breakthroughs, the wild experiments, and the quiet revolutions that will shape the next decade. No hype, no jargon walls, just the amazing stuff explained straight. The future is already under construction. Come watch it get built.]]></itunes:summary>
+    <itunes:owner>
+      <itunes:name>Alden Isaac</itunes:name>
+      <itunes:email>Ivyindustrieswork@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/art.jpg" />
+    <itunes:category text="Technology" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Bottling a Star: The Race to Put Fusion on the Grid</title>
+      <description><![CDATA[Fusion power has been thirty years away for sixty years. But in Everett, Washington, Helion Energy is building machines that smash rings of plasma together at one hundred fifty million degrees, and Microsoft already signed a contract to buy the electricity. In the premiere of The Prototype, Alden Isaac goes inside the race to bottle a star: Helion's fifty-megawatt Orion plant rising in Malaga, Washington, MIT spinoff Commonwealth Fusion's SPARC reactor nearing switch-on in Massachusetts, and the honest physics and engineering hurdles, from neutron-shredded walls to tritium shortages, standing between the workshop and the grid.]]></description>
+      <pubDate>Sun, 20 Sep 2026 00:23:25 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1196391770220826/84d18c4e-8439-457d-9d08-ff3cb2627920/ep-0db8bd43-486a-4cf1-9cef-6aa190eddeb9.mp3" length="11113765" type="audio/mpeg" />
+      <guid isPermaLink="true">https://muse.ai/podcasts/media/1196391770220826/84d18c4e-8439-457d-9d08-ff3cb2627920/ep-0db8bd43-486a-4cf1-9cef-6aa190eddeb9.mp3</guid>
+      <itunes:author>Alden Isaac</itunes:author>
+      <itunes:summary><![CDATA[Fusion power has been thirty years away for sixty years. But in Everett, Washington, Helion Energy is building machines that smash rings of plasma together at one hundred fifty million degrees, and Microsoft already signed a contract to buy the electricity. In the premiere of The Prototype, Alden Isaac goes inside the race to bottle a star: Helion's fifty-megawatt Orion plant rising in Malaga, Washington, MIT spinoff Commonwealth Fusion's SPARC reactor nearing switch-on in Massachusetts, and the honest physics and engineering hurdles, from neutron-shredded walls to tritium shortages, standing between the workshop and the grid.]]></itunes:summary>
+      <itunes:duration>23:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
