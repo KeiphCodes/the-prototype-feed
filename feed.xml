@@ -18,6 +18,20 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Prototype #2: Your Phone Is Doing Relativity: The Hidden Genius of GPS</title>
+      <description><![CDATA[Your phone's blue dot is drawn by atomic clocks flying twelve thousand six hundred miles overhead, clocks deliberately set wrong at the factory to account for Einstein's relativity. In this episode of The Prototype, Alden Isaac goes inside GPS: the four-satellite math trick, the thirty-eight microsecond drift, the tragedy that opened it to the world, and how a military navigation system quietly became the heartbeat of modern civilization.]]></description>
+      <pubDate>Mon, 21 Sep 2026 20:15:00 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep2.mp3" length="10620325" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep2.mp3</guid>
+      <itunes:author>Alden Isaac</itunes:author>
+      <itunes:summary><![CDATA[Your phone's blue dot is drawn by atomic clocks flying twelve thousand six hundred miles overhead, clocks deliberately set wrong at the factory to account for Einstein's relativity. In this episode of The Prototype, Alden Isaac goes inside GPS: the four-satellite math trick, the thirty-eight microsecond drift, the tragedy that opened it to the world, and how a military navigation system quietly became the heartbeat of modern civilization.]]></itunes:summary>
+      <itunes:duration>22:07</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep2.jpg" />
+    </item>
+    <item>
       <title>The Prototype #1: Bottling a Star: The Race to Put Fusion on the Grid</title>
       <description><![CDATA[Fusion power has been thirty years away for sixty years. But in Everett, Washington, Helion Energy is building machines that smash rings of plasma together at one hundred fifty million degrees, and Microsoft already signed a contract to buy the electricity. In the premiere of The Prototype, Alden Isaac goes inside the race to bottle a star: Helion's fifty-megawatt Orion plant rising in Malaga, Washington, MIT spinoff Commonwealth Fusion's SPARC reactor nearing switch-on in Massachusetts, and the honest physics and engineering hurdles, from neutron-shredded walls to tritium shortages, standing between the workshop and the grid.]]></description>
       <pubDate>Sun, 20 Sep 2026 00:23:25 +0000</pubDate>
