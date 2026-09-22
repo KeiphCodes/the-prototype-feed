@@ -18,6 +18,20 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Prototype #3: Carving Light: The Machine That Prints the Modern World</title>
+      <description><![CDATA[Every advanced chip on Earth is printed by a single machine built by a single Dutch company. Alden Isaac goes inside extreme ultraviolet lithography: vaporizing tin with lasers to make light that barely exists in nature, mirrors smoother than anything else on Earth, and the twenty-year bet the experts ranked dead last. Cover photo: ASML.]]></description>
+      <pubDate>Tue, 22 Sep 2026 19:16:15 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep3.mp3" length="9775525" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep3.mp3</guid>
+      <itunes:author>Alden Isaac</itunes:author>
+      <itunes:summary><![CDATA[Every advanced chip on Earth is printed by a single machine built by a single Dutch company. Alden Isaac goes inside extreme ultraviolet lithography: vaporizing tin with lasers to make light that barely exists in nature, mirrors smoother than anything else on Earth, and the twenty-year bet the experts ranked dead last. Cover photo: ASML.]]></itunes:summary>
+      <itunes:duration>20:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep3.jpg" />
+    </item>
+    <item>
       <title>The Prototype #2: Your Phone Is Doing Relativity: The Hidden Genius of GPS</title>
       <description><![CDATA[Your phone's blue dot is drawn by atomic clocks flying twelve thousand six hundred miles overhead, clocks deliberately set wrong at the factory to account for Einstein's relativity. In this episode of The Prototype, Alden Isaac goes inside GPS: the four-satellite math trick, the thirty-eight microsecond drift, the tragedy that opened it to the world, and how a military navigation system quietly became the heartbeat of modern civilization.]]></description>
       <pubDate>Mon, 21 Sep 2026 20:15:00 +0000</pubDate>
