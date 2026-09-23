@@ -31,45 +31,6 @@
       <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/art.jpg" />
     </item>
     <item>
-      <title>Preview: Episode 1 - Bottling a Star</title>
-      <description><![CDATA[A 34-second preview of Episode 1. A private company in Everett, Washington is trying to build a literal star to sell electricity, and Microsoft already signed a contract to buy it.]]></description>
-      <pubDate>Wed, 23 Sep 2026 01:00:31 +0000</pubDate>
-      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/preview-ep1.mp3" length="275694" type="audio/mpeg" />
-      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/preview-ep1.mp3</guid>
-      <itunes:author>Alden Isaac</itunes:author>
-      <itunes:summary><![CDATA[A 34-second preview of Episode 1. A private company in Everett, Washington is trying to build a literal star to sell electricity, and Microsoft already signed a contract to buy it.]]></itunes:summary>
-      <itunes:duration>0:34</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep1.jpg" />
-    </item>
-    <item>
-      <title>Preview: Episode 2 - Your Phone Is Doing Relativity</title>
-      <description><![CDATA[A 34-second preview of Episode 2. Your phone's blue dot is drawn by atomic clocks doing math Einstein predicted a century before the phone existed.]]></description>
-      <pubDate>Wed, 23 Sep 2026 01:00:31 +0000</pubDate>
-      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/preview-ep2.mp3" length="274649" type="audio/mpeg" />
-      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/preview-ep2.mp3</guid>
-      <itunes:author>Alden Isaac</itunes:author>
-      <itunes:summary><![CDATA[A 34-second preview of Episode 2. Your phone's blue dot is drawn by atomic clocks doing math Einstein predicted a century before the phone existed.]]></itunes:summary>
-      <itunes:duration>0:34</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep2.jpg" />
-    </item>
-    <item>
-      <title>Preview: Episode 3 - Carving Light</title>
-      <description><![CDATA[A 34-second preview of Episode 3. A machine in the Netherlands costs more than four hundred jumbo jets, and without it every chip on Earth stops getting faster. Cover photo: ASML.]]></description>
-      <pubDate>Wed, 23 Sep 2026 01:00:31 +0000</pubDate>
-      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/preview-ep3.mp3" length="265036" type="audio/mpeg" />
-      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/preview-ep3.mp3</guid>
-      <itunes:author>Alden Isaac</itunes:author>
-      <itunes:summary><![CDATA[A 34-second preview of Episode 3. A machine in the Netherlands costs more than four hundred jumbo jets, and without it every chip on Earth stops getting faster. Cover photo: ASML.]]></itunes:summary>
-      <itunes:duration>0:33</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep3.jpg" />
-    </item>
-    <item>
       <title>The Prototype #4: The Box That Shrank the World: The Truck Driver Who Rebuilt Global Trade</title>
       <description><![CDATA[In March of twenty twenty-one, the Ever Given wedged itself into the Suez Canal and one stuck ship held up ten billion dollars a day in goods. All of it packed inside the same boring steel box. This is the story of the shipping container: the most important invention of the twentieth century, hiding in plain sight, invented by a truck driver who got tired of waiting at a dock. How a simple steel box rebuilt global trade, shrank the world, and put your phone, your shoes, and your coffee on a ship across the ocean. Cover photo: Wikimedia Commons, CC BY-SA 4.0.]]></description>
       <pubDate>Wed, 23 Sep 2026 18:52:50 +0000</pubDate>
