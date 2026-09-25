@@ -31,6 +31,20 @@
       <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/art.jpg" />
     </item>
     <item>
+      <title>The Prototype #6: The Fire Below: The Frackers Drilling for Endless Clean Power</title>
+      <description><![CDATA[The hottest new idea in clean energy comes from the oilfield. Alden Isaac goes inside enhanced geothermal: the fracking crews drilling miles down to crack hot dry rock, the startups turning earthquakes into engineering, and the race to make endless clean power as cheap as dirt. Cover photo: Rjglewis, CC BY-SA 3.0, via Wikimedia Commons.]]></description>
+      <pubDate>Fri, 25 Sep 2026 15:42:16 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep6.mp3" length="21064383" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep6.mp3</guid>
+      <itunes:author>Alden Isaac</itunes:author>
+      <itunes:summary><![CDATA[The hottest new idea in clean energy comes from the oilfield. Alden Isaac goes inside enhanced geothermal: the fracking crews drilling miles down to crack hot dry rock, the startups turning earthquakes into engineering, and the race to make endless clean power as cheap as dirt. Cover photo: Rjglewis, CC BY-SA 3.0, via Wikimedia Commons.]]></itunes:summary>
+      <itunes:duration>21:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep6.jpg" />
+    </item>
+
+    <item>
       <title>The Prototype #5: Light on the Ocean Floor: The Cables That Carry the Internet</title>
       <description><![CDATA[Ninety-nine percent of intercontinental internet traffic travels as light through glass threads on the ocean floor. Alden Isaac goes inside the undersea cable network: the Victorian dreamer who wired the Atlantic, the repair ships that fix four breaks a week, the Baltic sabotage gray zone, and why Meta is spending billions to lay its own private highway across the planet. Cover photo: Wikimedia Commons, CC BY-SA 4.0. Music: "Deliberate Thought" by Kevin MacLeod (incompetech.com), licensed under CC BY 3.0.]]></description>
       <pubDate>Thu, 24 Sep 2026 22:55:15 +0000</pubDate>
