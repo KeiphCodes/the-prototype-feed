@@ -31,7 +31,21 @@
       <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/art.jpg" />
     </item>
     <item>
-      <title>The Prototype #7: Bottled Lightning: How the Lithium Battery Took Over the World</title>
+      <title>The Prototype #8: The Fire Below: The Frackers Drilling for Endless Clean Power</title>
+      <description><![CDATA[The hottest new idea in clean energy comes from the oilfield. Alden Isaac goes inside enhanced geothermal: the fracking crews drilling miles down to crack hot dry rock, the startups turning earthquakes into engineering, and the race to make endless clean power as cheap as dirt. Cover photo: Rjglewis, CC BY-SA 3.0, via Wikimedia Commons.]]></description>
+      <pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep6.mp3" length="18431345" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep6.mp3</guid>
+      <itunes:author>Alden Isaac</itunes:author>
+      <itunes:summary><![CDATA[The hottest new idea in clean energy comes from the oilfield. Alden Isaac goes inside enhanced geothermal: the fracking crews drilling miles down to crack hot dry rock, the startups turning earthquakes into engineering, and the race to make endless clean power as cheap as dirt. Cover photo: Rjglewis, CC BY-SA 3.0, via Wikimedia Commons.]]></itunes:summary>
+      <itunes:duration>21:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>8</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep6.jpg" />
+    </item>
+
+    <item>
+      <title>The Prototype #6: Bottled Lightning: How the Lithium Battery Took Over the World</title>
       <description><![CDATA[A battery in Poland big enough to carry half a million homes through an evening. Alden Isaac traces how the lithium battery went from lab curiosity to the engine of the modern world: the chemistry breakthroughs, the stunning price crash, the gigafactories rising in deserts, and the race for whatever comes next. Cover photo: Smnt, CC BY-SA 4.0, via Wikimedia Commons.]]></description>
       <pubDate>Mon, 28 Sep 2026 21:04:46 +0000</pubDate>
       <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep7.mp3" length="11105602" type="audio/mpeg" />
@@ -40,22 +54,8 @@
       <itunes:summary><![CDATA[A battery in Poland big enough to carry half a million homes through an evening. Alden Isaac traces how the lithium battery went from lab curiosity to the engine of the modern world: the chemistry breakthroughs, the stunning price crash, the gigafactories rising in deserts, and the race for whatever comes next. Cover photo: Smnt, CC BY-SA 4.0, via Wikimedia Commons.]]></itunes:summary>
       <itunes:duration>23:08</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:episode>7</itunes:episode>
-      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep7.jpg" />
-    </item>
-
-    <item>
-      <title>The Prototype #6: The Fire Below: The Frackers Drilling for Endless Clean Power</title>
-      <description><![CDATA[The hottest new idea in clean energy comes from the oilfield. Alden Isaac goes inside enhanced geothermal: the fracking crews drilling miles down to crack hot dry rock, the startups turning earthquakes into engineering, and the race to make endless clean power as cheap as dirt. Cover photo: Rjglewis, CC BY-SA 3.0, via Wikimedia Commons.]]></description>
-      <pubDate>Fri, 25 Sep 2026 15:42:16 +0000</pubDate>
-      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep6.mp3" length="21064383" type="audio/mpeg" />
-      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep6.mp3</guid>
-      <itunes:author>Alden Isaac</itunes:author>
-      <itunes:summary><![CDATA[The hottest new idea in clean energy comes from the oilfield. Alden Isaac goes inside enhanced geothermal: the fracking crews drilling miles down to crack hot dry rock, the startups turning earthquakes into engineering, and the race to make endless clean power as cheap as dirt. Cover photo: Rjglewis, CC BY-SA 3.0, via Wikimedia Commons.]]></itunes:summary>
-      <itunes:duration>21:56</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
       <itunes:episode>6</itunes:episode>
-      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep6.jpg" />
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep7.jpg" />
     </item>
 
     <item>
