@@ -31,6 +31,20 @@
       <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/art.jpg" />
     </item>
     <item>
+      <title>The Prototype #7: Hands on the Keyboard: How AI Learned to Do Things</title>
+      <description><![CDATA[A developer in Berlin types one paragraph describing a bug, goes to make coffee, and comes back to find the fix written, tested, and submitted for her review. Alden Isaac traces how AI learned to do things instead of just saying them: the mechanical trick that gave models hands, the coding agents ninety percent of professional developers now use every week, and what happens when software stops answering questions and starts doing the work. Music: Bach's Air on the G String, performed by the United States Air Force Strings (public domain).]]></description>
+      <pubDate>Tue, 29 Sep 2026 21:36:00 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep8.mp3" length="15157262" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep8.mp3</guid>
+      <itunes:author>Alden Isaac</itunes:author>
+      <itunes:summary><![CDATA[A developer in Berlin types one paragraph describing a bug, goes to make coffee, and comes back to find the fix written, tested, and submitted for her review. Alden Isaac traces how AI learned to do things instead of just saying them: the mechanical trick that gave models hands, the coding agents ninety percent of professional developers now use every week, and what happens when software stops answering questions and starts doing the work. Music: Bach's Air on the G String, performed by the United States Air Force Strings (public domain).]]></itunes:summary>
+      <itunes:duration>21:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep8b.jpg" />
+    </item>
+
+    <item>
       <title>The Prototype #8: The Fire Below: The Frackers Drilling for Endless Clean Power</title>
       <description><![CDATA[The hottest new idea in clean energy comes from the oilfield. Alden Isaac goes inside enhanced geothermal: the fracking crews drilling miles down to crack hot dry rock, the startups turning earthquakes into engineering, and the race to make endless clean power as cheap as dirt. Cover photo: Rjglewis, CC BY-SA 3.0, via Wikimedia Commons.]]></description>
       <pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
