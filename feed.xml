@@ -18,6 +18,19 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Prototype #9: The Radar Kitchen: How a Melted Candy Bar Invented the Microwave Oven</title>
+      <description><![CDATA[An engineer at Raytheon leans against a running radar magnetron and feels something strange in his pocket: his candy bar has melted. Alden Isaac traces how Percy Spencer, a man with a fifth-grade education, turned that moment into the microwave oven: the war-born magnetron, the six-foot-tall, thousand-pound Radarange, and the long road from military hardware to the box humming in your kitchen. Cover photo: Acroterion, CC BY-SA 4.0, via Wikimedia Commons. Music: Bach's Air on the G String, performed by the United States Air Force Strings (public domain).]]></description>
+      <pubDate>Mon, 05 Oct 2026 14:27:35 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep9.mp3" length="15766646" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep9.mp3</guid>
+      <itunes:author>Alden Isaac</itunes:author>
+      <itunes:summary><![CDATA[An engineer at Raytheon leans against a running radar magnetron and feels something strange in his pocket: his candy bar has melted. Alden Isaac traces how Percy Spencer, a man with a fifth-grade education, turned that moment into the microwave oven: the war-born magnetron, the six-foot-tall, thousand-pound Radarange, and the long road from military hardware to the box humming in your kitchen. Cover photo: Acroterion, CC BY-SA 4.0, via Wikimedia Commons. Music: Bach's Air on the G String, performed by the United States Air Force Strings (public domain).]]></itunes:summary>
+      <itunes:duration>21:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>9</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep9.jpg" />
+    </item>
+    <item>
       <title>The Prototype: Official Trailer</title>
       <description><![CDATA[What is The Prototype? A 60-second introduction to the show: the technology being built right now and the hidden systems already running your life, explained straight. No hype, no jargon walls. New episodes every Monday, Wednesday, and Friday.]]></description>
       <pubDate>Wed, 23 Sep 2026 01:00:31 +0000</pubDate>
