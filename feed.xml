@@ -18,6 +18,19 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Prototype #10: The Little Switch: How the Transistor Rewired the World</title>
+      <description><![CDATA[In 1947, a sliver of germanium smaller than a postage stamp did something no vacuum tube could: it amplified a signal without heat, without burnouts, without warming up. Alden Isaac traces how John Bardeen, Walter Brattain, and William Shockley invented the transistor at Bell Labs: the forgotten 1920s patents, the surface-state breakthrough, the December experiment that carried a human voice, and how that tiny switch rewired the world. Cover photo: Bell Labs publicity photo, 1948, via Wikimedia Commons (public domain).]]></description>
+      <pubDate>Tue, 06 Oct 2026 14:21:18 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep10.mp3" length="14893602" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep10.mp3</guid>
+      <itunes:author>Alden Isaac</itunes:author>
+      <itunes:summary><![CDATA[In 1947, a sliver of germanium smaller than a postage stamp did something no vacuum tube could: it amplified a signal without heat, without burnouts, without warming up. Alden Isaac traces how John Bardeen, Walter Brattain, and William Shockley invented the transistor at Bell Labs: the forgotten 1920s patents, the surface-state breakthrough, the December experiment that carried a human voice, and how that tiny switch rewired the world. Cover photo: Bell Labs publicity photo, 1948, via Wikimedia Commons (public domain).]]></itunes:summary>
+      <itunes:duration>20:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>10</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep10.jpg" />
+    </item>
+    <item>
       <title>The Prototype #9: The Radar Kitchen: How a Melted Candy Bar Invented the Microwave Oven</title>
       <description><![CDATA[An engineer at Raytheon leans against a running radar magnetron and feels something strange in his pocket: his candy bar has melted. Alden Isaac traces how Percy Spencer, a man with a fifth-grade education, turned that moment into the microwave oven: the war-born magnetron, the six-foot-tall, thousand-pound Radarange, and the long road from military hardware to the box humming in your kitchen. Cover photo: Acroterion, CC BY-SA 4.0, via Wikimedia Commons. Music: Bach's Air on the G String, performed by the United States Air Force Strings (public domain).]]></description>
       <pubDate>Mon, 05 Oct 2026 14:27:35 +0000</pubDate>
