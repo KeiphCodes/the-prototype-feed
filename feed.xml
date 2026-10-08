@@ -18,6 +18,19 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Prototype #11: The Booster That Came Back: How Rockets Learned to Land</title>
+      <description><![CDATA[For decades, rockets were trash: you flew them once and threw them away. Then one December night in 2015, a booster came back down and landed standing up. Alden Isaac traces how rockets learned to land: the DC-X experiments, the Shuttle's broken economics, the Grasshopper test flights, the first touchdown, the droneship catches, and the chopstick arms now grabbing Starship out of the sky. Cover photo: SpaceX, via Wikimedia Commons (public domain).]]></description>
+      <pubDate>Thu, 08 Oct 2026 00:10:00 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep11.mp3" length="16860028" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep11.mp3</guid>
+      <itunes:author>Alden Isaac</itunes:author>
+      <itunes:summary><![CDATA[For decades, rockets were trash: you flew them once and threw them away. Then one December night in 2015, a booster came back down and landed standing up. Alden Isaac traces how rockets learned to land: the DC-X experiments, the Shuttle's broken economics, the Grasshopper test flights, the first touchdown, the droneship catches, and the chopstick arms now grabbing Starship out of the sky. Cover photo: SpaceX, via Wikimedia Commons (public domain).]]></itunes:summary>
+      <itunes:duration>23:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>11</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep11.jpg" />
+    </item>
+    <item>
       <title>The Prototype #10: The Little Switch: How the Transistor Rewired the World</title>
       <description><![CDATA[In 1947, a sliver of germanium smaller than a postage stamp did something no vacuum tube could: it amplified a signal without heat, without burnouts, without warming up. Alden Isaac traces how John Bardeen, Walter Brattain, and William Shockley invented the transistor at Bell Labs: the forgotten 1920s patents, the surface-state breakthrough, the December experiment that carried a human voice, and how that tiny switch rewired the world. Cover photo: Bell Labs publicity photo, 1948, via Wikimedia Commons (public domain).]]></description>
       <pubDate>Tue, 06 Oct 2026 14:21:18 +0000</pubDate>
