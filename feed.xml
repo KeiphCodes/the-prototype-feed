@@ -18,6 +18,19 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Prototype #13: The Dry Copy: How Chester Carlson's Kitchen Experiment Built Xerox</title>
+      <description><![CDATA[In 1938, a patent clerk melted sulfur on his kitchen stove until it caught fire and stank up the house, chasing an idea every expert called impossible: making copies with no wet chemistry at all. Twenty-one companies turned Chester Carlson down. Then his dry-copy machine became the Xerox 914, the most successful product ever marketed in America. Alden Isaac traces how xerography went from a handkerchief-rubbed zinc plate in a Queens beauty parlor back room to the machine that built the modern office: the sulfur fires, the lycopodium powder, the selenium drum breakthrough, the hotel unveiling where one copier caught fire on live television, and the 95-dollar-a-month rental plan that turned Xerox into a verb. Cover photo: the Xerox 914 itself, photo by Marcin Wichary, CC BY 2.0, via Wikimedia Commons.]]></description>
+      <pubDate>Fri, 09 Oct 2026 22:42:14 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep13.mp3" length="30623527" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep13.mp3</guid>
+      <itunes:author>Alden Isaac</itunes:author>
+      <itunes:summary><![CDATA[In 1938, a patent clerk melted sulfur on his kitchen stove until it caught fire and stank up the house, chasing an idea every expert called impossible: making copies with no wet chemistry at all. Twenty-one companies turned Chester Carlson down. Then his dry-copy machine became the Xerox 914, the most successful product ever marketed in America. Alden Isaac traces how xerography went from a handkerchief-rubbed zinc plate in a Queens beauty parlor back room to the machine that built the modern office: the sulfur fires, the lycopodium powder, the selenium drum breakthrough, the hotel unveiling where one copier caught fire on live television, and the 95-dollar-a-month rental plan that turned Xerox into a verb. Cover photo: the Xerox 914 itself, photo by Marcin Wichary, CC BY 2.0, via Wikimedia Commons.]]></itunes:summary>
+      <itunes:duration>21:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>13</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep13.jpg" />
+    </item>
+    <item>
       <title>The Prototype #12: Black and White Squares: How the QR Code Took Over the World</title>
       <description><![CDATA[In 1994, a Denso Wave engineer named Masahiro Hara stared at a barcode and saw its limits: twenty characters, one direction only. So he built a square that could hold thousands of characters, be read from any angle, and survive damage. Then he gave it away for free. Alden Isaac traces how the QR code went from tracking car parts to menus, payments, and tickets everywhere: the finder patterns, the error correction that reads through damage, and the decision not to patent it that let it take over the world. Cover photo: portrait by the Japan Academy, CC BY 4.0, via Wikimedia Commons.]]></description>
       <pubDate>Thu, 08 Oct 2026 22:40:00 +0000</pubDate>
