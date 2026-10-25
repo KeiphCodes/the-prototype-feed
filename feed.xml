@@ -18,6 +18,19 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Prototype #16: The Wooden Mouse: How One Afternoon in 1968 Showed the Next Fifty Years of Computing</title>
+      <description><![CDATA[On December 9, 1968, Douglas Engelbart sat down in San Francisco and showed a room full of engineers the next fifty years of computing in a single afternoon: a wooden mouse, clickable text, on-screen windows, video conferencing, and people editing the same document together from different places. Almost none of it reached the public for decades. This is the story of the demo that saw the future first. Cover: Engelbart's original wooden mouse, photo by Michael Hicks, CC BY 2.0, via Wikimedia Commons.]]></description>
+      <pubDate>Sun, 25 Oct 2026 17:56:09 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep16.mp3" length="9995021" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep16.mp3</guid>
+      <itunes:author>Marcus Reed</itunes:author>
+      <itunes:summary><![CDATA[On December 9, 1968, Douglas Engelbart sat down in San Francisco and showed a room full of engineers the next fifty years of computing in a single afternoon: a wooden mouse, clickable text, on-screen windows, video conferencing, and people editing the same document together from different places. Almost none of it reached the public for decades. This is the story of the demo that saw the future first. Cover: Engelbart's original wooden mouse, photo by Michael Hicks, CC BY 2.0, via Wikimedia Commons.]]></itunes:summary>
+      <itunes:duration>20:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>16</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep16.jpg" />
+    </item>
+    <item>
       <title>The Prototype #15: The Machine That Tamed the Air: How Air Conditioning Was Invented to Save Ink, Not People</title>
       <description><![CDATA[In 1902, Willis Carrier was hired to fix a humidity problem at a Brooklyn printing plant, where paper swelled and shrank between color passes and the ink would not line up. The machine he built to control the air did not just save the print runs. It went on to reshape movie theaters, factories, skyscrapers, and whole regions of the country. Marcus Reed's first episode as host of The Prototype. Cover: Willis Carrier in 1915, Carrier Corporation press photo, via Wikimedia Commons.]]></description>
       <pubDate>Wed, 21 Oct 2026 15:52:26 +0000</pubDate>
