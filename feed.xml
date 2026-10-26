@@ -18,6 +18,19 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Prototype #17: The Missing Color: How a Thirty Year Hunt for Blue Light Remade the World</title>
+      <description><![CDATA[Red and green LEDs were old news by the 1970s, but blue light would not yield. Without blue there was no white LED and no full color screen the way we know them. Three researchers chased it for thirty years through failed crystals and dead ends, until one stubborn lab finally broke through and remade lighting and displays for good. Cover: blue LEDs on a proto-board, photo by Gussisaurio, CC BY-SA 3.0, via Wikimedia Commons.]]></description>
+      <pubDate>Mon, 26 Oct 2026 12:23:58 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep17.mp3" length="10368269" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep17.mp3</guid>
+      <itunes:author>Marcus Reed</itunes:author>
+      <itunes:summary><![CDATA[Red and green LEDs were old news by the 1970s, but blue light would not yield. Without blue there was no white LED and no full color screen the way we know them. Three researchers chased it for thirty years through failed crystals and dead ends, until one stubborn lab finally broke through and remade lighting and displays for good. Cover: blue LEDs on a proto-board, photo by Gussisaurio, CC BY-SA 3.0, via Wikimedia Commons.]]></itunes:summary>
+      <itunes:duration>21:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>17</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep17.jpg" />
+    </item>
+    <item>
       <title>The Prototype #16: The Wooden Mouse: How One Afternoon in 1968 Showed the Next Fifty Years of Computing</title>
       <description><![CDATA[On December 9, 1968, Douglas Engelbart sat down in San Francisco and showed a room full of engineers the next fifty years of computing in a single afternoon: a wooden mouse, clickable text, on-screen windows, video conferencing, and people editing the same document together from different places. Almost none of it reached the public for decades. This is the story of the demo that saw the future first. Cover: Engelbart's original wooden mouse, photo by Michael Hicks, CC BY 2.0, via Wikimedia Commons.]]></description>
       <pubDate>Sun, 25 Oct 2026 17:56:09 +0000</pubDate>
