@@ -18,6 +18,19 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Prototype #18: The Signal That Would Not Sit Still: How a Movie Star, a Composer, and a Failed Black Hole Hunt Built Wi-Fi</title>
+      <description><![CDATA[In 1942, movie star Hedy Lamarr and composer George Antheil patented a radio system that hopped between frequencies so torpedoes could not be jammed. Nobody built it. Fifty years later, astronomers in Australia hunting for evaporating black holes built math to clean up smeared radio signals, and that math ended up at the heart of Wi-Fi. This is how a torpedo problem, a player piano, and a failed black hole hunt gave the world wireless. Cover: Hedy Lamarr in 1939, CC BY 4.0, via Wikimedia Commons (UCLA Library Digital Collections).]]></description>
+      <pubDate>Tue, 27 Oct 2026 12:43:32 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep18.mp3" length="10795085" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep18.mp3</guid>
+      <itunes:author>Marcus Reed</itunes:author>
+      <itunes:summary><![CDATA[In 1942, movie star Hedy Lamarr and composer George Antheil patented a radio system that hopped between frequencies so torpedoes could not be jammed. Nobody built it. Fifty years later, astronomers in Australia hunting for evaporating black holes built math to clean up smeared radio signals, and that math ended up at the heart of Wi-Fi. This is how a torpedo problem, a player piano, and a failed black hole hunt gave the world wireless. Cover: Hedy Lamarr in 1939, CC BY 4.0, via Wikimedia Commons (UCLA Library Digital Collections).]]></itunes:summary>
+      <itunes:duration>22:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>18</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep18.jpg" />
+    </item>
+    <item>
       <title>The Prototype #17: The Missing Color: How a Thirty Year Hunt for Blue Light Remade the World</title>
       <description><![CDATA[Red and green LEDs were old news by the 1970s, but blue light would not yield. Without blue there was no white LED and no full color screen the way we know them. Three researchers chased it for thirty years through failed crystals and dead ends, until one stubborn lab finally broke through and remade lighting and displays for good. Cover: blue LEDs on a proto-board, photo by Gussisaurio, CC BY-SA 3.0, via Wikimedia Commons.]]></description>
       <pubDate>Mon, 26 Oct 2026 12:23:58 +0000</pubDate>
