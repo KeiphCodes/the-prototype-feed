@@ -18,6 +18,19 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Prototype #19: The Heartbeat in a Box: How a Blackout, a Metronome, and the Wrong Resistor Built the Pacemaker</title>
+      <description><![CDATA[On Halloween night in 1957, a blackout in Minneapolis stopped the wall-powered heart machine keeping a baby alive after surgery. Surgeon C. Walton Lillehei went to an electronics repairman named Earl Bakken, who built a battery-powered pacemaker in his garage in about a month, borrowing a circuit from a metronome. In New York, Wilson Greatbatch reached into the wrong parts bin, soldered in a resistor one hundred times too strong, and heard a heartbeat. This is how the pacemaker was built. Cover: a 1961 Medtronic wearable pacemaker, public domain, via Wikimedia Commons.]]></description>
+      <pubDate>Thu, 29 Oct 2026 11:41:51 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep19.mp3" length="10858989" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep19.mp3</guid>
+      <itunes:author>Marcus Reed</itunes:author>
+      <itunes:summary><![CDATA[On Halloween night in 1957, a blackout in Minneapolis stopped the wall-powered heart machine keeping a baby alive after surgery. Surgeon C. Walton Lillehei went to an electronics repairman named Earl Bakken, who built a battery-powered pacemaker in his garage in about a month, borrowing a circuit from a metronome. In New York, Wilson Greatbatch reached into the wrong parts bin, soldered in a resistor one hundred times too strong, and heard a heartbeat. This is how the pacemaker was built. Cover: a 1961 Medtronic wearable pacemaker, public domain, via Wikimedia Commons.]]></itunes:summary>
+      <itunes:duration>22:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>19</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep19.jpg" />
+    </item>
+    <item>
       <title>The Prototype #18: The Signal That Would Not Sit Still: How a Movie Star, a Composer, and a Failed Black Hole Hunt Built Wi-Fi</title>
       <description><![CDATA[In 1942, movie star Hedy Lamarr and composer George Antheil patented a radio system that hopped between frequencies so torpedoes could not be jammed. Nobody built it. Fifty years later, astronomers in Australia hunting for evaporating black holes built math to clean up smeared radio signals, and that math ended up at the heart of Wi-Fi. This is how a torpedo problem, a player piano, and a failed black hole hunt gave the world wireless. Cover: Hedy Lamarr in 1939, CC BY 4.0, via Wikimedia Commons (UCLA Library Digital Collections).]]></description>
       <pubDate>Tue, 27 Oct 2026 12:43:32 +0000</pubDate>
