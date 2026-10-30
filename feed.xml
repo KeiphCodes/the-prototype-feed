@@ -18,6 +18,19 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Prototype #20: The Blue Dot: How a Soviet Beep, a Lumpy Earth, and Clocks That Run Fast Built GPS</title>
+      <description><![CDATA[The blue dot on your phone rests on a chain of extraordinary work. In 1957, two physicists tracked Sputnik from the changing pitch of its beep, and that idea reversed into satellite navigation. Gladys West spent years modeling Earth's true, lumpy shape so satellite positions could become accurate places on the ground. Above it all, atomic clocks run at a different rate than clocks here, so GPS had to build Einstein's relativity into the system before launch. Cover: Dr. Gladys West in 2018, U.S. Air Force photo by Adrian Cadiz, public domain, via Wikimedia Commons.]]></description>
+      <pubDate>Fri, 30 Oct 2026 11:26:54 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep20.mp3" length="10847661" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep20.mp3</guid>
+      <itunes:author>Marcus Reed</itunes:author>
+      <itunes:summary><![CDATA[The blue dot on your phone rests on a chain of extraordinary work. In 1957, two physicists tracked Sputnik from the changing pitch of its beep, and that idea reversed into satellite navigation. Gladys West spent years modeling Earth's true, lumpy shape so satellite positions could become accurate places on the ground. Above it all, atomic clocks run at a different rate than clocks here, so GPS had to build Einstein's relativity into the system before launch. Cover: Dr. Gladys West in 2018, U.S. Air Force photo by Adrian Cadiz, public domain, via Wikimedia Commons.]]></itunes:summary>
+      <itunes:duration>22:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>20</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep20.jpg" />
+    </item>
+    <item>
       <title>The Prototype #19: The Heartbeat in a Box: How a Blackout, a Metronome, and the Wrong Resistor Built the Pacemaker</title>
       <description><![CDATA[On Halloween night in 1957, a blackout in Minneapolis stopped the wall-powered heart machine keeping a baby alive after surgery. Surgeon C. Walton Lillehei went to an electronics repairman named Earl Bakken, who built a battery-powered pacemaker in his garage in about a month, borrowing a circuit from a metronome. In New York, Wilson Greatbatch reached into the wrong parts bin, soldered in a resistor one hundred times too strong, and heard a heartbeat. This is how the pacemaker was built. Cover: a 1961 Medtronic wearable pacemaker, public domain, via Wikimedia Commons.]]></description>
       <pubDate>Thu, 29 Oct 2026 11:41:51 +0000</pubDate>
