@@ -17,7 +17,20 @@
     <itunes:category text="Technology" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-                <item>
+                    <item>
+      <title>The Prototype #23: The Pen in Every Pocket: How a Rolling Ball and Two Brothers Built the Ballpoint Pen</title>
+      <description><![CDATA[Laszlo Biro was a Budapest journalist whose fountain pen kept tearing, smearing, and running dry at deadline, until he watched a newspaper press lay down ink that dried the moment it touched paper. With his brother Gyorgy, a chemist, he built a pen around a tiny rolling ball that carried thick, quick-drying ink to the page. The brothers carried the idea from Europe to Argentina, Royal Air Force crews proved it at altitude, and Marcel Bich's Bic Cristal put it in every pocket on earth, more than one hundred billion sold. Cover: Four Bic Cristal pens and caps, photo by Carlos Delgado, CC BY-SA, via Wikimedia Commons.]]></description>
+      <pubDate>Mon, 09 Nov 2026 14:08:48 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep23.mp3" length="9845997" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep23.mp3</guid>
+      <itunes:author>Marcus Reed</itunes:author>
+      <itunes:summary><![CDATA[Laszlo Biro was a Budapest journalist whose fountain pen kept tearing, smearing, and running dry at deadline, until he watched a newspaper press lay down ink that dried the moment it touched paper. With his brother Gyorgy, a chemist, he built a pen around a tiny rolling ball that carried thick, quick-drying ink to the page. The brothers carried the idea from Europe to Argentina, Royal Air Force crews proved it at altitude, and Marcel Bich's Bic Cristal put it in every pocket on earth, more than one hundred billion sold. Cover: Four Bic Cristal pens and caps, photo by Carlos Delgado, CC BY-SA, via Wikimedia Commons.]]></itunes:summary>
+      <itunes:duration>20:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>23</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-prototype-feed@main/ep23.jpg" />
+    </item>
+<item>
       <title>The Prototype #22: The Beep: How Lines in the Sand, a Smudged Bullseye, and a Pack of Gum Built the Barcode</title>
       <description><![CDATA[In 1949, Norman Joseph Woodland dragged his fingers through the sand on Miami Beach and stretched the dots and dashes of Morse code into thin and thick lines. His first design was a bullseye, read by a reader built from a movie projector bulb, but the stripes had to wait for lasers, computers, and an industry that could agree on one code. On June 26, 1974, at a Marsh supermarket in Troy, Ohio, a laser scanner read a 10-pack of Wrigley's Juicy Fruit gum priced at 67 cents, and checkout changed forever. Cover: Shinkansen snack vendor scanning a barcode, photo by sodai gomi, CC BY 2.0, via Wikimedia Commons.]]></description>
       <pubDate>Thu, 05 Nov 2026 17:24:31 +0000</pubDate>
